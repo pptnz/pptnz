@@ -1,6 +1,6 @@
 Hi, I'm Minji! 😄 
 
-I am a fifth-year Ph.D. student in Computer Science at Stanford University advised by Dr. Aaron Newman. 
+I am a sixth-year Ph.D. student in Computer Science at Stanford University advised by Dr. Aaron Newman. 
 
 🧬 My research focuses on decoding molecular biology data to discover the biological mechanisms underlying stem cells and to identify immature cell populations in cancer. Currently, I am developing machine learning models for inferring cell development potential from single-cell RNA-sequencing data. 
 
